@@ -1,0 +1,5 @@
+Shader code is based from Dan Moran's Shaders Case Study—Pokémon Battle Transitions 
+(https://youtu.be/LnAoD7hgDxw?si=tCtTEOshaZdfLi6R) YouTube video.
+
+The provided transition textures are made by Dan Moran from his Shaders Case Study—Pokémon Battle Transitions 
+(https://youtu.be/LnAoD7hgDxw?si=tCtTEOshaZdfLi6R) YouTube video under the CC By 4.0 Attribution 4.0 International License.
