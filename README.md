@@ -35,7 +35,7 @@ Top and Bottom Transition
 4. If needed, you can change the effect's render pass event in its render feature under settings.
 
 ## Credits/Assets used
-Shader code is based from Dan Moran's Shaders Case Study—Pokémon Battle Transitions YouTube video ([Youtube Video Link](https://youtu.be/LnAoD7hgDxw?si=tCtTEOshaZdfLi6R)). Could not found a license, Dan Moran said that he is unsure if he added a 
+Shader code is based from Dan Moran's Shaders Case Study—Pokémon Battle Transitions YouTube video ([Youtube Video Link](https://youtu.be/LnAoD7hgDxw?si=tCtTEOshaZdfLi6R)). Could not find a license, Dan Moran said that he is unsure if he added a 
 specific license to the code but he is open for it to be used in a commercial product (in a reply to a commenter named hectorcastellizacharias7056).
 <br><br>
 The provided transition textures are made by Dan Moran from his Shaders Case
